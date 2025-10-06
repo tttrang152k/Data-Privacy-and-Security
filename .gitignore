@@ -1,0 +1,13 @@
+# macOS junk
+.DS_Store
+
+# Compiled files
+*.class
+*.o
+*.exe
+
+# Logs
+*.log
+
+# Node modules
+node_modules/
